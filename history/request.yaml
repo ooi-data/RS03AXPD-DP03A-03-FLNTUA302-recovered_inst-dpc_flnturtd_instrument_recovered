@@ -1,5 +1,5 @@
-data_ready: true
+data_ready: false
 data_stream: RS03AXPD-DP03A-03-FLNTUA302-recovered_inst-dpc_flnturtd_instrument_recovered
-last_request: '2021-03-04T18:25:55.759841Z'
+last_request: '2021-04-01T02:57:45.018003Z'
 response: https://raw.githubusercontent.com/ooi-data/RS03AXPD-DP03A-03-FLNTUA302-recovered_inst-dpc_flnturtd_instrument_recovered/main/history/response.json
-status: success
+status: pending
